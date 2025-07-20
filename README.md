@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate Machine Learning developer from India</h3>
 
 - 🔭 I’m currently working on **LangChain Projects**
 
@@ -10,8 +9,6 @@
 - 💬 Ask me about **Machine Learning , Deep Learning**
 
 - 📫 How to reach me **ankitupatil1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HiJlFUIV3ygrU-TcGJMHM8ruHWGXag0F/view?usp=sharing](https://drive.google.com/file/d/1HiJlFUIV3ygrU-TcGJMHM8ruHWGXag0F/view?usp=sharing)
 
 <p align="left">
 </p>
